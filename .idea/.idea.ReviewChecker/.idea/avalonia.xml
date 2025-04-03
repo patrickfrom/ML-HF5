@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="ReviewChecker/App.axaml" value="ReviewChecker/ReviewChecker.csproj" />
+        <entry key="ReviewChecker/Views/MainWindow.axaml" value="ReviewChecker/ReviewChecker.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
