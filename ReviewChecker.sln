@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewChecker", "ReviewChec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewChecker.MLModelBuilder", "ReviewChecker.MLModelBuilder\ReviewChecker.MLModelBuilder.csproj", "{9FD60162-7BD2-4434-800B-14429907959F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewChecker.SteamReviewer", "ReviewChecker.SteamReviewer\ReviewChecker.SteamReviewer.csproj", "{4AF2A53F-271D-4E91-950A-C88432753459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9FD60162-7BD2-4434-800B-14429907959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD60162-7BD2-4434-800B-14429907959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD60162-7BD2-4434-800B-14429907959F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF2A53F-271D-4E91-950A-C88432753459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF2A53F-271D-4E91-950A-C88432753459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF2A53F-271D-4E91-950A-C88432753459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF2A53F-271D-4E91-950A-C88432753459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
